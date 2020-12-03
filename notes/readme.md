@@ -1,6 +1,6 @@
 ## Notes for coding practice
 
 ### Pandas 
-  Keith Galli = projects
-  Harrison + Petrou = cookbook
+Keith Galli = projects
+Harrison + Petrou = cookbook
 
