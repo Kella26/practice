@@ -4,6 +4,4 @@ Practice coding and stuff
 
 Keith Galli - projects
 
-Harrison + Petrou - cookbook
-
-algorithms 
+Harrison + Petrou - cookbook*
